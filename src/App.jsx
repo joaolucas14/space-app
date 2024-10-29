@@ -22,7 +22,7 @@ const AppContainer = styled.div`
 
 const MainContainer = styled.main`
   display: flex;
-  gap: 24px;
+  gap: 25px;
 `
 
 const ConteudoGaleria = styled.section`
